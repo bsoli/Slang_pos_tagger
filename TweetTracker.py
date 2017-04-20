@@ -3,10 +3,10 @@ import tweepy
 import codecs
 
 
-consumer_key = 'CWJs1F0V4wsap16ZpG6yP7BDA'
-consumer_secret = 'kjBshHyajTPpADxN6rQieevpOwjOH1hEOmOCURhpzvIG71pr4G'
-access_token = '187067949-za9sNmm0MyTQHUlmv2j7D0tFxWd15uasr3nfh4ao'
-access_token_secret = '8uWuroX8ybkJVs0j0yu1UJ92LRq3Z6J3s5rttMIqvosGV'
+consumer_key = #removed for privacy
+consumer_secret = #removed for privacy
+access_token =  #removed for privacy
+access_token_secret =  #removed for privacy
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 
